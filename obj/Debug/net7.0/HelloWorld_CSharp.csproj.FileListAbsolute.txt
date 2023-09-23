@@ -1,0 +1,14 @@
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\bin\Debug\net7.0\HelloWorld_CSharp.exe
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\bin\Debug\net7.0\HelloWorld_CSharp.deps.json
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\bin\Debug\net7.0\HelloWorld_CSharp.runtimeconfig.json
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\bin\Debug\net7.0\HelloWorld_CSharp.dll
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\bin\Debug\net7.0\HelloWorld_CSharp.pdb
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.AssemblyInfoInputs.cache
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.AssemblyInfo.cs
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.dll
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\refint\HelloWorld_CSharp.dll
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.pdb
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\HelloWorld_CSharp.genruntimeconfig.cache
+C:\Users\Chrystian Barros\Documents\repos\GitHubProjects\HelloWorld_CSharp\obj\Debug\net7.0\ref\HelloWorld_CSharp.dll
